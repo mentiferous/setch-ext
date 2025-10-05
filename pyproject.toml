@@ -4,6 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 dynamic = ["version"]
+dependencies = ["rich"]
 name = "setch-ext"
 requires-python = ">=3.10"
 authors = [{ name = "mentiferous" }]
