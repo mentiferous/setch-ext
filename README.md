@@ -13,7 +13,7 @@ Utility for retrieving system information on Linux
 
 - Python >= 3.10
 - [pipx](https://pipx.pypa.io/stable/installation)
-- [FiraCode Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/FiraCode.zip)
+- FiraCode Nerd Font
 
 ```sh
 pipx install setch-ext
